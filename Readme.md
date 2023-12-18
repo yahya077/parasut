@@ -8,6 +8,11 @@ This is an unofficial Parasut API client developed in Go. It is a work in progre
 ### Information
 This package is still in development. I welcome suggestions for changes that will bring it closer to compliance without overly complicating the code, or useful test cases to add to the test suite.
 
+Has a dependency on room package. You can check it out [Room HTTP Client Wrapper](https://github.com/WEG-Technology/room)
+
+## 📖&nbsp; Documentation
+Please check the [Parasut API Documentation](https://apidocs.parasut.com/) for more information.
+
 ## 💈&nbsp; Installation
 
 ```
